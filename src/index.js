@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-document.title = "Sri Vaishnav"; // Set the title of the website
+document.title = "Sri Vaishnav";
 root.render(
   <React.StrictMode>
     <App />
