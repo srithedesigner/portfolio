@@ -10,7 +10,7 @@ function App() {
   const targetName = ['శ', '్', 'ర', 'ీ', ' ', 'వ', 'ై', 'ష', '్', 'ణ', 'వ', '్']
 
   const shuffleName = () => {
-    if (name.join('') == "Sri Vaishnav") {
+    if (name.join('') == "Sri Vaishnav ") {
       setName(targetName)
     } else {
       setName(['S', 'r', 'i', ' ', 'V', 'a', 'i', 's', 'h', 'n', 'a', 'v'])
